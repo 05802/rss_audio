@@ -4,7 +4,7 @@ date:         2025-08-06 08:08:08 +0800
 keywords:
 - tag1
 - tag2
-mp3-url:      ""https://docs.google.com/uc?export=download&id=1lhUhvBg9Ls_ncpQr63cTqbVAufMOhZjb"
+mp3-url:      "https://docs.google.com/uc?export=download&id=1lhUhvBg9Ls_ncpQr63cTqbVAufMOhZjb"
 episode-type: full # or "trailer"
 explicit:     "no"
 block:        "no" # no means it is published
