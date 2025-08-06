@@ -1,5 +1,7 @@
 # Podcast Pages
 
+https://05802.github.io/rss_audio/podcast.rss
+
 Have your own podcast you want to host? Do it on GitHub!
 Podcast Pages provides a template to host your own podcast using GitHub Pages and [Jekyll](https://jekyllrb.com/).
 
@@ -17,7 +19,7 @@ Podcast Pages provides a template to host your own podcast using GitHub Pages an
     ```
 1. Upload your first podcast
 1. Publish using GitHub pages
-1. Submit rss feed link found at `<your-url.github.io>/podcast.rss` to podcast providers (ie. iTunes, Spotify, etc.)
+1. Submit rss feed link found at `https://05802.github.io/rss_audio/podcast.rss` to podcast providers (ie. iTunes, Spotify, etc.)
 
 ### For each new podcast
 
