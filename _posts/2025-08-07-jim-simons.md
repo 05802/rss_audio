@@ -1,6 +1,6 @@
 ---
 title:        "Jim Simons: A Short Story of My Life and Mathematics (2022)"
-date:         2025-08-07 08:08:08 +0800
+date:         2025-08-06 09:08:08 +0800
 keywords:
 - tag1
 - tag2
