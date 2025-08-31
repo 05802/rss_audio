@@ -5,6 +5,7 @@ keywords:
 - tag1
 - tag2
 mp3-url:      "https://docs.google.com/uc?export=download&id=1s_ROcIe3im4rzrel0kPulJjlPILGz-VL"
+mp3-size:  "14900000"
 episode-type: full # or "trailer"
 explicit:     "no"
 block:        "no" # no means it is published
