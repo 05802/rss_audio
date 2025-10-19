@@ -11,7 +11,7 @@ layout: default
 
 <section>
     <audio class="podcast" preload="auto" controls>
-      <source src="{{ page.mp3-url | prepend: site.baseurl | prepend: site.url }}" type="audio/mp3" />
+      <source src="{{ page.mp3-url | absolute_url }}" type="audio/mp3" />
     </audio>
 </section>
 
