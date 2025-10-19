@@ -39,7 +39,7 @@ layout: null
             <itunes:category text="Entrepreneurship" />
         </itunes:category>
         <itunes:type>episodic</itunes:type>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>{{ site.explicit | default: "no" }}</itunes:explicit>
         {% for post in site.posts %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
