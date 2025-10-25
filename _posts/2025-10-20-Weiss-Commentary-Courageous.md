@@ -7,7 +7,7 @@ keywords:
 - tag1
 - tag2
 mp3-url:      "https://pub-0eced6e15a5c47f7aa40f1e1dea66c92.r2.dev/2025-10-20-Weiss-Commentary-Courageous.mp3"
-mp3-size: 
+mp3-size: 35398916
 episode-type: 
 explicit:     "no"
 block:        "no" # no means it is published
