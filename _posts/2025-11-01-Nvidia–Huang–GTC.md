@@ -1,5 +1,5 @@
 ---
-title:        "Nvidia–Huang–GTC Conference in Washington.md"
+title:        "GTC Conference in Washington"
 date:         2025-11-01 06:06:08 +0000
 keywords:
 - tag1
