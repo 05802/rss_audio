@@ -11,6 +11,8 @@ explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
+---
+
 Nov 24, 2025
 This talk was recorded as part of the Stanford AI Club’s Speaker Series 
 <!--more-->
