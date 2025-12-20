@@ -1,10 +1,10 @@
 ---
-title:        "long title "
-date:         yyyy-mm-dd hh:mm:ss +0000
+title:        "Nobel Prize lecture: Demis Hassabis, Nobel Prize in Chemistry 2024"
+date:         2025-12-09 06:06:08 +0000
 keywords:
 - tag1
 - tag2
-mp3-url:      "R2_PUBLIC_URL="https://pub-XXXXXXXXXXXX.r2.dev""
+mp3-url:      "https://pub-0eced6e15a5c47f7aa40f1e1dea66c92.r2.dev/2025-12-09-Nobel-Demis-Chemistry.mp3"
 explicit:     "no"
 block:        "no" # no means it is published
 layout: podcast
