@@ -1,6 +1,6 @@
 ---
-title:        "Nobel Prize lecture: Demis Hassabis, Nobel Prize in Chemistry 2024"
-date:         2025-12-09 06:06:08 +0000
+title:        "long title"
+date:         yyyy-mm-dd hh:mm:05 +0000
 keywords:
 - tag1
 - tag2
