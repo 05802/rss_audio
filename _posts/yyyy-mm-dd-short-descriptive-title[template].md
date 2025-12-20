@@ -10,9 +10,9 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-(date first published; e.g. Dec 18, 2025) 
+{ "date first published" ; e.g. Dec 18, 2025 }
 
-{ long description goes here }
+{ "long description goes here" }
 
 <!--more-->
 
