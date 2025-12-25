@@ -1,6 +1,6 @@
 ---
 title:        "Dario Amodei of Anthropic’s Hopes and Fears for the Future of A.I."
-date:         2025-12-25 11:17:45 +0000
+date:         2025-12-24 11:17:45 +0000
 keywords:
 - tag1
 - tag2
