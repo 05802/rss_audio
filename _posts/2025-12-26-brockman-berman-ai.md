@@ -1,6 +1,6 @@
 ---
 title:        "Greg Brockman: AGI, Sora 2, Bottlenecks, White Collar, Proactive AI, and more!"
-date:         2025-12-26 20:51:11 +0000
+date:         2025-12-26 10:51:11 +0000
 keywords:
 - tag1
 - tag2
@@ -11,28 +11,6 @@ layout: podcast
 excerpt_separator: <!--more-->
 ---
 Dec 26, 2025
-
-Download Humanities Last Prompt Engineering Guide (free) 👇🏼
-https://bit.ly/4kFhajz
-
-Download The Matthew Berman Vibe Coding Playbook (free) 👇🏼
-https://bit.ly/3I2J0YQ
-
-Join My Newsletter for Regular AI Updates 👇🏼
-https://forwardfuture.ai
-
-Discover The Best AI Tools👇🏼
-https://tools.forwardfuture.ai
-
-My Links 🔗
-👉🏻 X: https://x.com/matthewberman
-👉🏻 Forward Future X: https://x.com/forward_future_
-👉🏻 Instagram: https://www.instagram.com/matthewberman_ai
-👉🏻 Discord: https://discord.gg/xxysSXBxFW
-👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai
-
-Media/Sponsorship Inquiries ✅ 
-https://bit.ly/44TC45V
 
 Timestamps:
 0:00 Intro
