@@ -1,5 +1,5 @@
 ---
-title:        "The Iconoclast"
+title:        "The Iconoclast (Peter Thielf, Aspen Institute)"
 date:         2025-12-26 19:48:40 +0000
 keywords:
 - tag1
