@@ -10,14 +10,12 @@ block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-Dec 28, 2025
+Aug 11, 2025
 
 Learn more about ARC-AGI-3: https://arcprize.org/arc-agi/3/
 Play the games: https://three.arcprize.org/
 
 Slides: https://docs.google.com/presentation/d/1pVk0-L-K0DrYWygAqPqHIjOBqCnoVQ90AegbqRG4-lw/edit?usp=sharing
-
-Discord: https://discord.gg/9b77dPAmcA
 
 <!--more-->
 
