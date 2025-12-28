@@ -1,6 +1,6 @@
 ---
 title: "Maximize Productivity, Physical & Mental Health With Daily Tools | Huberman Lab Essentials"
-date: 2025-12-28 16:09:20 +0000
+date: 2025-12-28 10:09:20 +0000
 keywords:
 - tag1
 - tag2
