@@ -11,7 +11,7 @@ layout: podcast
 excerpt_separator: <!--more-->
 ---
 Oct 03, 2020
-
+Johns Hopkins Medicine Computed Tomography (CT)
 We'd like to thank Patrick Collison (CEO of Stripe) for taking the time to talk to us and letting us record and share our conversation.  Please enjoy
 
 <!--more-->
