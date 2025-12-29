@@ -19,6 +19,7 @@ This episode first aired in May 2018. This is a Knowledge Project Podcast episod
 Patrick Collison, CEO, and co-founder of Stripe shares wise insights on success, failure, management, decision making, learning and so much more.
 
 In this conversation, we cover the biggest (and most valuable) mistakes Patrick made in the early days of Stripe and how they helped him get better, the characteristics that Patrick looks for in a new hire to fit and contribute to the Stripe company culture, what compelled he and his brother to move forward with the early concept of Stripe, even though on paper it was doomed to fail from the start, the gaps Patrick saw in the market that dozens of other processing companies were missing — and how he capitalized on them, the lessons Patrick learned from scaling Stripe from two employees (he and his brother) to nearly 1,000 today, and so much more.
+
 --
 
 Timecodes:
