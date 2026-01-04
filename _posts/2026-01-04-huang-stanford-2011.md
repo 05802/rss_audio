@@ -1,5 +1,5 @@
 ---
-title: "Boring_Business - This 2011 lecture from Jensen Huang at Stanford University will teach..."
+title: "Jensen Huang in 2011 at Stanford University"
 date: 2026-01-04 18:07:45 +0000
 keywords:
 - tag1
@@ -10,9 +10,14 @@ block: "no"
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-Jan 04, 2026
 
-This 2011 lecture from Jensen Huang at Stanford University will teach you more about business than a 2 year MBA https://t.co/R8xleLU96m
+Jensen Huang's 2011 Stanford lecture, shared in the post, recounts NVIDIA's founding in 1993 with a contrarian bet on 3D graphics for video games, emphasizing "perspective" over grand vision as the key to spotting untapped markets like gaming, which grew into a $200 billion industry.
+
+Huang stresses relentless innovation through calculated risks, such as ignoring initial customer demands to leverage Moore's Law for annual performance doublings, leading to NVIDIA's survival as the sole major graphics chipmaker after outlasting 200 competitors.
+
+The talk advocates a company culture of "tolerance for failure" and intellectual honesty to enable quick pivots, like shifting from fixed-function chips to programmable GPUs in the late 1990s, which unlocked broader applications including Google Earth and general-purpose computing.
+(Grok)
+
 
 <!--more-->
 
