@@ -1,5 +1,5 @@
 ---
-title: "Warren Buffett | Lecture | University Of Florida | 1998"
+title: "Warren Buffett | University Of Florida | 1998"
 date: 2026-01-06 10:21:13 +0000
 keywords:
 - tag1
