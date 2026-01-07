@@ -12,8 +12,6 @@ excerpt_separator: <!--more-->
 ---
 Jan 06, 2026
 
-Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends  
-
 Elon Musk is the cofounder and CEO of Tesla, cofounder of SpaceX, and xAI.
 
 Dave Blundin is the founder & GP of Link Ventures
