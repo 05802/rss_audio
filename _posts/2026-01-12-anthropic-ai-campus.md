@@ -1,5 +1,5 @@
 ---
-title: "AI on campus"
+title: "Anthropic – AI on campus"
 date: 2026-01-12 21:36:10 +0000
 keywords:
 - tag1
