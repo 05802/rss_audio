@@ -1,5 +1,5 @@
 ---
-title: "شرق‌زده sharghzadeh - Why Iranian Protests Fail and Will Continue to Fail"
+title: "sharghzadeh - Why Iranian Protests Fail and Will Continue to Fail"
 date: 2026-01-13 23:56:42 +0000
 keywords:
 - tag1
