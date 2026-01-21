@@ -1,5 +1,5 @@
 ---
-title: "Coinbase CEO Bullish on Crypto Bill (FULL CONVERATION)"
+title: "Armstrong, Bloomberg, Davos"
 date: 2026-01-21 13:55:32 +0000
 keywords:
 - tag1
@@ -48,6 +48,7 @@ Visit our YouTube channels:
 Bloomberg Podcasts: https://www.youtube.com/bloombergpodcasts
 Bloomberg Television: https://www.youtube.com/@markets
 Bloomberg Originals: https://www.youtube.com/bloomberg
+
 Quicktake: https://www.youtube.com/@BloombergQuicktake
 
 <!--more-->
