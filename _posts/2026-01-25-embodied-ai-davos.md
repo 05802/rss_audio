@@ -1,5 +1,5 @@
 ---
-title: "Embodied AI: Systems that See, Hear, and Act in the World Alongside Humans | AI House Davos 2026"
+title: "Yann Lecun | AI House Davos 2026"
 date: 2026-01-25 04:03:17 +0000
 keywords:
 - tag1
