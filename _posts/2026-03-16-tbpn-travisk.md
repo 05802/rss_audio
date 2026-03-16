@@ -1,5 +1,5 @@
 ---
-title: "TBPN | TBPN - FULL INTERVIEW: @travisk joins TBPN to discuss his new company Atoms,..."
+title: @travisk joins TBPN to discuss his new company Atoms,..."
 date: 2026-03-16 10:12:45 +0000
 keywords:
 - tag1
