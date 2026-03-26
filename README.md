@@ -100,21 +100,7 @@ The `yt-dlp-rss` script automates the entire workflow for YouTube videos:
 
 ## R2 Configuration
 
-**Bucket URL:** `https://pub-0eced6e15a5c47f7aa40f1e1dea66c92.r2.dev/`
-
 Audio files follow the naming convention: `YYYY-MM-DD-slug.mp3`
-
-### rclone setup
-
-```ini
-[ak_r2]
-type = s3
-provider = Cloudflare
-access_key_id = YOUR_KEY
-secret_access_key = YOUR_SECRET
-endpoint = https://ACCOUNT_ID.r2.cloudflarestorage.com
-```
-
 Upload: `rclone copy file.mp3 ak_r2:rss-audio/`
 
 ---
