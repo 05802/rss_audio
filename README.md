@@ -1,4 +1,4 @@
-# rss_audio
+# rss_audio – Not maintained ⚠️
 
 A personal podcast hosting system using Jekyll, GitHub Pages, and Cloudflare R2.
 
